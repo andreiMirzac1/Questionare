@@ -1,0 +1,205 @@
+{
+	"Questionnaire": [
+										{
+										"question_id": 1,
+										"question_text": " With regards to your most recent experience with [COMPANY], was the quality of customer service you received:",
+										"is_dependent": "no",
+										"answers": [
+																{
+																"answer_id": 1,
+																"answer": "Very Poor",
+																"next_question_to_show": 2
+																},
+																{
+																"answer_id": 2,
+																"answer": "Poor",
+																"next_question_to_show": 2
+																},
+																{
+																"answer_id": 3,
+																"answer": "Average",
+																"next_question_to_show": 2
+																},
+																{
+																"answer_id": 4,
+																"answer": "Very Good",
+																"next_question_to_show": 2
+																},
+																{
+																"answer_id": 4,
+																"answer": "Excelent",
+																"next_question_to_show": 2
+																}
+																]
+										},{
+										"question_id": 2,
+										"question_text": "Taking into consideration the features and benefits of the product itself. How satisfied are you with the product?",
+										"is_dependent": "yes",
+										"answers": [
+																{
+																"answer_id": 1,
+																"answer": "Very Dissatisfied",
+																"next_question_to_show": 3
+																},
+																{
+																"answer_id": 2,
+																"answer": "Dissatisfied",
+																"next_question_to_show": 3
+																},
+																{
+																"answer_id": 3,
+																"answer": "Neutral",
+																"next_question_to_show": 3
+																},
+																{
+																"answer_id": 4,
+																"answer": "Satisfied",
+																"next_question_to_show": 3
+																},
+																{
+																"answer_id": 5,
+																"answer": "Very Satisfied",
+																"next_question_to_show": 3
+																}
+																]
+										},{
+										"question_id": 3,
+										"question_text": "What are your favourite things about this product?",
+										"is_dependent": "yes",
+										"answers": [
+																{
+																"answer_id": 1,
+																"answer": "Design",
+																"next_question_to_show": 0
+																},
+																{
+																"answer_id": 2,
+																"answer": "Quality",
+																"next_question_to_show": 0
+																},
+																{
+																"answer_id": 3,
+																"answer": "Cost",
+																"next_question_to_show": 0
+																},
+																{
+																"answer_id": 4,
+																"answer": "Features",
+																"next_question_to_show": 0
+																},
+																{
+																"answer_id": 5,
+																"answer": "Ease of use",
+																"next_question_to_show": 0
+																}
+																]
+										},{
+										"question_id": 4,
+										"question_text": "Do you want to answer additional Question?",
+										"is_dependent": "no",
+										"answers": [
+																{
+																"answer_id": 1,
+																"answer": "No",
+																"next_question_to_show": 0
+																},
+																{
+																"answer_id": 2,
+																"answer": "Yes",
+																"next_question_to_show": 5
+																}
+																]
+										},{
+										"question_id": 5,
+										"question_text": "The sales person was very courteous?",
+										"is_dependent": "yes",
+										"answers": [
+																{
+																"answer_id": 1,
+																"answer": "Strongly Disagree",
+																"next_question_to_show": 6
+																},
+																{
+																"answer_id": 2,
+																"answer": "Disagree",
+																"next_question_to_show": 6
+																},								{
+																"answer_id": 3,
+																"answer": "Neutral",
+																"next_question_to_show": 6
+																},
+																{
+																"answer_id": 4,
+																"answer": "Agree",
+																"next_question_to_show": 6
+																},
+																{
+																"answer_id": 5,
+																"answer": "Strongly Agree",
+																"next_question_to_show": 6
+																}
+																]
+										},{
+										"question_id": 6,
+										"question_text": "The sales person dealt with my enquiry professionally?",
+										"is_dependent": "yes",
+										"answers": [
+																{
+																"answer_id": 1,
+																"answer": "Strongly Disagree",
+																"next_question_to_show": 7
+																},
+																{
+																"answer_id": 2,
+																"answer": "Disagree",
+																"next_question_to_show": 7
+																},								{
+																"answer_id": 3,
+																"answer": "Neutral",
+																"next_question_to_show": 7
+																},
+																{
+																"answer_id": 4,
+																"answer": "Agree",
+																"next_question_to_show": 7
+																},
+																{
+																"answer_id": 5,
+																"answer": "Strongly Agree",
+																"next_question_to_show": 7
+																}
+																]
+										},{
+										"question_id": 7,
+										"question_text": "The sales person was very knowledgeable and understood my needs?",
+										"is_dependent": "yes",
+										"answers": [
+																{
+																"answer_id": 1,
+																"answer": "Strongly Disagree",
+																"next_question_to_show": 0
+																},
+																{
+																"answer_id": 2,
+																"answer": "Disagree",
+																"next_question_to_show": 0
+																},								{
+																"answer_id": 3,
+																"answer": "Neutral",
+																"next_question_to_show": 0
+																},
+																{
+																"answer_id": 4,
+																"answer": "Agree",
+																"next_question_to_show": 0
+																},
+																{
+																"answer_id": 5,
+																"answer": "Strongly Agree",
+																"next_question_to_show": 0
+																}
+																]
+										}
+										]
+	
+}
